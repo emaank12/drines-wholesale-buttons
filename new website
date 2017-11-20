@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+ <head> 
+<meta charset="utf-8"> <title>Project: Wholesale-Buttons </title>
+
+ </head>
+
+ <body> 
+<style> h1 { color: rgb(177, 237, 116); } 
+
+body { background-color: rgb(204, 229, 255); } 
+
+h1 { color: rgb(0, 0, 0) } 
+
+h3 { color: rgb(213, 56, 108) }
+
+h4 { color: rgb(0, 0, 102) }
+
+h5 { color: rgb(84, 11, 102) }
+
+</style> 
+
+<h1>The Drine's Wholesale Buttons</h1>
+<h3> Emaan Khan, Munrina Bawa </h3>
+
+ <h4>
+ <p>
+ <strong> Who We Are </strong>
+ <br> The Drines Wholesale Buttons are a new company established in November of 2017 to make different kinds of buttons, (pins, magnets,
+ and even keychains! ). We were founded by Emaan Khan and Munrina Bawa. Our buttons costs' are cheap and afforable. We also have weekly
+ deals. This week's deal is <em>Buy 5 Magnets, Get the 6th 50% off! </em>
+ </p>
+ </h4>
+ 
+ <h5> <strong> We Sell 2 Kinds of Buttons! </strong>
+
+ <ul>
+ <li>1. The Best-Selling brand <br> <em> <a href="https://docs.google.com/document/d/1G5LU40u0f_o-B8uhWC0bqX7xHCZ45TDZ8j-XxXKS6Lc/edit">
+ Britney's Breakdown Buttons</a> </em> 
+ <br> <li> 2. Custom Buttons for the Same Cost!
+ 
+
+ </body>
+ 
+ 
+ 
+ </html>
