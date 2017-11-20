@@ -1,0 +1,30 @@
+# The Drines Wholesale Buttons
+### Emaan Khan, Munrina Bawa
+You can use the [editor on GitHub](https://github.com/emaank12/drines-wholesale-buttons/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Options
+
+We sell 2 types of buttons!
+<br> The Best-Selling brand 
+<br> Britney's Breakdown Buttons [Link] (https://docs.google.com/document/d/1G5LU40u0f_o-B8uhWC0bqX7xHCZ45TDZ8j-XxXKS6Lc/edit) 
+Britney's Breakdown Buttons</a>
+<br> Also, **CUSTOM** Buttons for the Same Price!
+
+```markdown
+#### Who We Are
+ <br> The Drines Wholesale Buttons are a new company established in November of 2017 to make different kinds of buttons, (pins, magnets,
+ and even keychains! ). We were founded by Emaan Khan and Munrina Bawa. Our buttons costs' are cheap and affordable. We also have weekly
+ deals. This week's deal is _Buy 5 Magnets, Get the 6th 50% off!_
+
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
